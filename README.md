@@ -2,6 +2,8 @@
 
 Distributed PubSub for Elixir using `pg`.
 
+Blog post: [Distributed PubSub in Elixir](https://vin.cy/distributed-pubsub-in-elixir?ref=gh)
+
 Note: This is a toy example for learning purposes and not intended for production use.
 
 ## Installation
